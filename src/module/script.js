@@ -1,0 +1,5 @@
+const scriptInit = () => {
+    
+}
+
+export {scriptInit}
